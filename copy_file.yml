@@ -1,4 +1,4 @@
----
+-----
 - name: ansible playbook to copy a file
   hosts: all
   become: true
